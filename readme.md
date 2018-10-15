@@ -1,4 +1,6 @@
-# Learn Redux
+# Reduxtargam
+### Created Following the Learn Redux videos from WesBos
+
 
 A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
 
